@@ -33,17 +33,17 @@
       "applovin banner": ".",
       "applovin interstitial": ".",	  
 	  
-      "start Activity Inter": ".",
+      "start Activity Inter": "admob",
       "start Activity Native": ".",
-      "start Activity Banner": ".",
+      "start Activity Banner": "admob",
 	  
-      "main Activity Inter": ".",
+      "main Activity Inter": "admob",
       "main Activity Native": ".",
-      "main Activity Banner": ".",
+      "main Activity Banner": "admob",
 	  
-      "web view banner 1": ".",
-      "web view banner 2": ".",
-      "web view banner 3": ".",
+      "web view banner 1": "admob",
+      "web view banner 2": "admob",
+      "web view banner 3": "admob",
 	 
 	 
       "show faces rate dialog": "false",
