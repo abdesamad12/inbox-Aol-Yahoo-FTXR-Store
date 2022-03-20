@@ -33,8 +33,8 @@
       "applovin banner": ".",
       "applovin interstitial": ".",	  
 	  
-      "start Activity Inter": "admob",
-      "start Activity Native": ".",
+      "start Activity Inter": ".",
+      "start Activity Native": "admob",
       "start Activity Banner": "admob",
 	  
       "main Activity Inter": "admob",
