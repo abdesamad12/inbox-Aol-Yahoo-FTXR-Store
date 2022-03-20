@@ -1,0 +1,75 @@
+{
+  "json object": {
+    "data": {
+		
+      "mopub initialize id": "920b6145fb1546cf8b5cf2ac34638bb7",
+      "mopub banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub native": "11a17b188668469fb0412708c3d16813",
+      "mopub interstitial": "24534e1901884e398f1253216226017e",
+	  
+      "tapdaq banner": "default",
+      "tapdaq native": "default",
+      "tapdaq interstitial": "default",
+      "tapdaq app key": ".",
+      "tapdaq client key": ".",
+	  
+      "admob banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob native": "ca-app-pub-3940256099942544/2247696110",
+      "admob interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "admob open app ad": "#",
+	  
+      "ironsource interstitial": "DefaultInterstitial",
+      "ironsource banner": "DefaultBanner",
+      "ironsource app key": ".",
+	  
+      "unity interstitial": "Interstitial_Android",
+      "unity banner": "Banner_Android",
+      "unity app id": ".",
+	  
+      "facebook banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "facebook native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+	  
+      "applovin banner": ".",
+      "applovin interstitial": ".",	  
+	  
+      "start Activity Inter": ".",
+      "start Activity Native": ".",
+      "start Activity Banner": ".",
+	  
+      "main Activity Inter": ".",
+      "main Activity Native": ".",
+      "main Activity Banner": ".",
+	  
+      "web view banner 1": ".",
+      "web view banner 2": ".",
+      "web view banner 3": ".",
+	 
+	 
+      "show faces rate dialog": "false",
+	  
+      "clicks to stop showing banner ad": "2",
+      "time unit banner": "hour",
+      "time banner": "23",
+	  
+      "clicks to stop showing native ad": "2",
+      "time unit native": "hour",
+      "time native": "23",
+	  
+      "show CPA 1": "false",
+      "CPA image 1": "https://i.snipboard.io/iRkwFa.jpg",
+      "CPA URL 1": "com.outfit7.talkingtomgoldrun",
+      "CPA text 1": "Get Your Iphone Now Here!",
+	  
+      "show CPA 2": "false",
+      "CPA image 2": "https://i.snipboard.io/iRkwFa.jpg",
+      "CPA URL 2": "https://www.youtube.com/watch?v=ffcitRgiNDs",
+      "CPA text 2": "Get Your Gift Now Here!",
+	  
+      "is app suspended": "false",
+      "update title": "A new update for this app",
+      "update message": "Update this app because this version has some isues",
+      "update URL": "com.innersloth.spacemafia"
+    }
+  }
+}
